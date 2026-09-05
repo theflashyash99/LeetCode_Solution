@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/theflashyash99/LeetCode_Solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/theflashyash99/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/theflashyash99/LeetCode_Solution/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/theflashyash99/LeetCode_Solution/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/theflashyash99/LeetCode_Solution/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
